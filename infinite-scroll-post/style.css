@@ -31,6 +31,7 @@ h1 {
 .filter {
   width: 100%;
   padding: 12px;
+  font-size: 16px;
 }
 
 .post {
@@ -100,6 +101,6 @@ h1 {
     transform: translateY(0);
   }
   50% {
-    tranform: translateY(-10px);
+    transform: translateY(-10px);
   }
 }
